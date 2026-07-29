@@ -1,0 +1,29 @@
+[
+  {
+    "categoria": "Publicación",
+    "titulo": "Cuadernos sobre Criminalidad Económica 2",
+    "fecha": "29 de julio de 2026",
+    "descripcion": "Ya está disponible el segundo número de Cuadernos sobre Criminalidad Económica, publicación del Programa EcoCrim.",
+    "imagen": "images/placeholder.svg",
+    "boton": "LEER MÁS",
+    "url": "https://unr.edu.ar/"
+  },
+  {
+    "categoria": "Actividad",
+    "titulo": "Próximas actividades de EcoCrim",
+    "fecha": "Próximamente",
+    "descripcion": "Consultá las próximas conferencias, seminarios y actividades del Programa.",
+    "imagen": "images/placeholder.svg",
+    "boton": "MÁS INFORMACIÓN",
+    "url": "https://unr.edu.ar/"
+  },
+  {
+    "categoria": "Investigación",
+    "titulo": "Novedades de investigación",
+    "fecha": "Próximamente",
+    "descripcion": "Conocé nuevas publicaciones, documentos y proyectos vinculados con la criminalidad económica.",
+    "imagen": "images/placeholder.svg",
+    "boton": "LEER MÁS",
+    "url": "https://unr.edu.ar/"
+  }
+]
