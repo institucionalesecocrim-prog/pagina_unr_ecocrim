@@ -1,20 +1,26 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Novedades EcoCrim</title>
-  <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Novedades EcoCrim</title>
+    <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <main class="news-section">
-    <div class="section-heading">
-      <p class="eyebrow">PROGRAMA ECOCRIM · UNR</p>
-      <h1>Novedades</h1>
-      <div class="heading-line"></div>
+
+    <!-- Contenedor principal que IT puede copiar en su web -->
+    <div id="ecocrim-news-container" class="ecocrim-news-wrapper">
+        <header class="ecocrim-header">
+            <h2>Novedades</h2>
+            <div class="ecocrim-brand-line"></div>
+        </header>
+        
+        <div id="ecocrim-news-feed">
+            <!-- Carga dinámica mediante script.js -->
+            <div class="ecocrim-loading">Cargando novedades...</div>
+        </div>
     </div>
-    <div id="news-container" class="news-grid" aria-live="polite"></div>
-  </main>
-  <script src="script.js"></script>
+
+    <script src="script.js"></script>
 </body>
 </html>
