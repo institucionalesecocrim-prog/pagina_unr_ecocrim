@@ -1,29 +1,32 @@
 [
   {
-    "categoria": "Publicación",
-    "titulo": "Cuadernos sobre Criminalidad Económica 2",
-    "fecha": "29 de julio de 2026",
-    "descripcion": "Ya está disponible el segundo número de Cuadernos sobre Criminalidad Económica, publicación del Programa EcoCrim.",
+    "destacada": true,
+    "categoria": "PUBLICACIÓN",
+    "titulo": "Cuadernos sobre Criminalidad Económica Nº 2",
+    "fecha": "29 julio 2026",
+    "descripcion": "Ya se encuentra disponible el segundo número de nuestra publicación periódica, con artículos de investigación enfocados en flujos financieros ilícitos y persecución penal.",
     "imagen": "images/placeholder.svg",
-    "boton": "LEER MÁS",
-    "url": "https://unr.edu.ar/"
+    "boton": "Leer más",
+    "url": "#"
   },
   {
-    "categoria": "Actividad",
-    "titulo": "Próximas actividades de EcoCrim",
-    "fecha": "Próximamente",
-    "descripcion": "Consultá las próximas conferencias, seminarios y actividades del Programa.",
-    "imagen": "images/placeholder.svg",
-    "boton": "MÁS INFORMACIÓN",
-    "url": "https://unr.edu.ar/"
+    "destacada": false,
+    "categoria": "PUBLICACIÓN",
+    "titulo": "Nuevo Working Paper: Análisis de Mercados Ilegales",
+    "fecha": "15 julio 2026",
+    "descripcion": "Un estudio pormenorizado sobre las dinámicas delictivas locales.",
+    "imagen": "",
+    "boton": "Leer",
+    "url": "#"
   },
   {
-    "categoria": "Investigación",
-    "titulo": "Novedades de investigación",
-    "fecha": "Próximamente",
-    "descripcion": "Conocé nuevas publicaciones, documentos y proyectos vinculados con la criminalidad económica.",
-    "imagen": "images/placeholder.svg",
-    "boton": "LEER MÁS",
-    "url": "https://unr.edu.ar/"
+    "destacada": false,
+    "categoria": "EVENTO",
+    "titulo": "Seminario Internacional sobre Justicia Penal y Crimen Organizado",
+    "fecha": "10 julio 2026",
+    "descripcion": "Encuentro con especialistas de la región.",
+    "imagen": "",
+    "boton": "Más información",
+    "url": "#"
   }
 ]
