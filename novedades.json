@@ -3,30 +3,18 @@
     "destacada": true,
     "categoria": "PUBLICACIÓN",
     "titulo": "Cuadernos sobre Criminalidad Económica Nº 2",
-    "fecha": "29 julio 2026",
-    "descripcion": "Ya se encuentra disponible el segundo número de nuestra publicación periódica, con artículos de investigación enfocados en flujos financieros ilícitos y persecución penal.",
+    "fecha": "10 febrero 2026",
+    "descripcion": "Nuevo número enfocado en la criminalidad económica compleja desde una perspectiva de género y el rol de la mujer en estructuras delictivas.",
     "imagen": "images/placeholder.svg",
-    "boton": "Leer más",
-    "url": "#"
-  },
-  {
-    "destacada": false,
-    "categoria": "PUBLICACIÓN",
-    "titulo": "Nuevo Working Paper: Análisis de Mercados Ilegales",
-    "fecha": "15 julio 2026",
-    "descripcion": "Un estudio pormenorizado sobre las dinámicas delictivas locales.",
-    "imagen": "",
-    "boton": "Leer",
-    "url": "#"
+    "boton": "Descargar PDF",
+    "url": "https://hdl.handle.net/2133/32406"
   },
   {
     "destacada": false,
     "categoria": "EVENTO",
-    "titulo": "Seminario Internacional sobre Justicia Penal y Crimen Organizado",
-    "fecha": "10 julio 2026",
-    "descripcion": "Encuentro con especialistas de la región.",
-    "imagen": "",
-    "boton": "Más información",
-    "url": "#"
+    "titulo": "Presentación en el XIII Congreso Latinoamericano de Ciencia Política",
+    "fecha": "24 julio 2026",
+    "boton": "Ver en LinkedIn",
+    "url": "https://www.linkedin.com/posts/programa-de-estudios-interdisciplinarios-sobre-prevenci%C3%B3n-y-persecuci%C3%B3n-de-la-criminalidad-econ%C3%B3mica_el-viernes-24-de-julio-el-equipo-de-ecocrim-activity-7488215561559244800-gYqC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGVSWs8BZPzOqXszrPGJsgTZqqv1kJ_gug0"
   }
 ]
